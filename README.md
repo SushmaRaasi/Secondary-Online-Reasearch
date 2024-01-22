@@ -5,13 +5,14 @@
 - [DataSet](#dataset)
 - [Approach](#approach)
 - [Tech Stack Used](#tech-stack-used)
-- [Data Preparation](#data-preparation)
-- [Locating the Metrics In Dataset](#locating-the-metrics-in-Dataset)
-- [Setting up Slicers](#setting-up-slicers)
-- [Creating Performance-based Metrics](#creating-performance-based-metrics)
-- [Trend-based Views](#trend-based-views)
-- [Creating Performance-based Metrics](#creating-performance-based-metrics)
-- [Analysing the Dashboard](#analysing-the-dashboard)
+- [Snapshots of the Reports](#snapshots-of-the-reports)
+    - [Welcome Page](#welcome-page)
+    - [Teams Performance](#teams-performance)
+    - [Profile Data](profile-data)
+    - [Reasercher Performance](reasercher-performance)
+    - [Revise Targets for Team](revise-targets-for-team)
+    - [Monthly Performance](monthly-performance)
+
 
 
 ### Project Description
@@ -45,7 +46,16 @@
 <p><i>Microsoft Power BI:</i> This was the star of the show when it came to data visualization and analysis. Power BI's user-friendly interface made it easy for me to explore the data, clean it up, and create insightful visualizations. It's like having a powerful magnifying glass to zoom in on the data's hidden patterns.
 </p>
 
-### Snapshots of the Dashboard
+### Snapshots of the Reports
+#### Welcome Page
+![2-1](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/c7bddf04-450e-4a90-9158-f322bd40fd97)
+#### Teams Performance
+![2](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/05ab234c-ca11-4c99-8141-fba5097e5363)
+![3-1](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/1ef224d3-041d-448c-bb4d-7fa50b5aea21)
+![3-2](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/a3011fce-4551-428b-9b4b-65a72a574ba4)
+![4-1](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/a32cb14f-d665-485c-9a5c-c48fd60d08ca)
+![5-1](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/89fa249a-21ae-4534-ad81-11487ce4afcd)
+![6-1](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/97d09899-ac50-4fa2-a7ef-7dd4f1dcfb1b)
 
 
 
