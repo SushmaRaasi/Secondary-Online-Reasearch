@@ -12,7 +12,7 @@
     - [Reasercher Performance](reasercher-performance)
     - [Revise Targets for Team](revise-targets-for-team)
     - [Monthly Performance](monthly-performance)
-
+- [Result](Result)
 
 
 ### Project Description
@@ -49,18 +49,28 @@
 ### Snapshots of the Reports
 #### Welcome Page
 ![2-1](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/c7bddf04-450e-4a90-9158-f322bd40fd97)
+<br>
 #### Teams Performance
+<br>
+
+![2-2](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/204c24f8-eb6a-4f39-9f68-7fd8e0c6cee8)
+<br>
 ![2](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/05ab234c-ca11-4c99-8141-fba5097e5363)
+<br>
+#### Profile Data
+
 ![3-1](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/1ef224d3-041d-448c-bb4d-7fa50b5aea21)
+
 ![3-2](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/a3011fce-4551-428b-9b4b-65a72a574ba4)
+
+#### Reasercher Performance
 ![4-1](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/a32cb14f-d665-485c-9a5c-c48fd60d08ca)
+#### Revise Targets for Team
 ![5-1](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/89fa249a-21ae-4534-ad81-11487ce4afcd)
+
+#### Monthly Performance
 ![6-1](https://github.com/SushmaRaasi/Secondary-Online-Reasearch/assets/79751402/97d09899-ac50-4fa2-a7ef-7dd4f1dcfb1b)
 
-
-
-
-
-
-
-
+### Result
+<p>This project helped to gain knowledge on different tools like MS Power BI and different statistical methods to gain insights.With the above insight will help the Team Lead to better Data Operations Team</p>
+</p>
